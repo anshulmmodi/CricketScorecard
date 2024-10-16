@@ -29,7 +29,9 @@ The **Cricket Scorecard Management System** is a Java-based application that sim
 ## Setup Instructions
 
 ### 1. Clone the Repository
+
 Clone this repository to your local machine:
+
 ```bash
-git clone https://github.com/your-username/cricket-scorecard-management.git
-cd cricket-scorecard-management
+git clone https://github.com/anshulmmodi/CricketScorecard.git
+cd CricketScorecard
